@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Student-Paper | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/publication_types/student-paper/</link>
-      <atom:link href="http://localhost:1313/publication_types/student-paper/index.xml" rel="self" type="application/rss+xml" />
+    <title>Student-Paper | Emily Yu</title>
+    <link>https://emilyyyu.github.io/publication_types/student-paper/</link>
+      <atom:link href="https://emilyyyu.github.io/publication_types/student-paper/index.xml" rel="self" type="application/rss+xml" />
     <description>Student-Paper</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://emilyyyu.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Student-Paper</title>
-      <link>http://localhost:1313/publication_types/student-paper/</link>
+      <link>https://emilyyyu.github.io/publication_types/student-paper/</link>
     </image>
     
     <item>
       <title>Certifying Hardware Model Checking Results</title>
-      <link>http://localhost:1313/publication/icfem19/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/icfem19/</guid>
+      <link>https://emilyyyu.github.io/publication/icfem19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://emilyyyu.github.io/publication/icfem19/</guid>
       <description>&lt;!-- 
 
 

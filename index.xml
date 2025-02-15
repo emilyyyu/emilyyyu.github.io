@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hugo Academic CV Theme</description>
+    <title>Emily Yu</title>
+    <link>https://emilyyyu.github.io/</link>
+      <atom:link href="https://emilyyyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emily Yu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Hugo Academic CV Theme</title>
-      <link>http://localhost:1313/</link>
+      <url>https://emilyyyu.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Emily Yu</title>
+      <link>https://emilyyyu.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://emilyyyu.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://emilyyyu.github.io/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Neural Control and Certificate Repair via Runtime Monitoring</title>
-      <link>http://localhost:1313/publication/aaai25/</link>
+      <link>https://emilyyyu.github.io/publication/aaai25/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/aaai25/</guid>
+      <guid>https://emilyyyu.github.io/publication/aaai25/</guid>
       <description>&lt;!-- 
 
 
@@ -76,17 +76,17 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://emilyyyu.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://emilyyyu.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ternary Simulation as Abstract Interpretation (Work in Progress)</title>
-      <link>http://localhost:1313/publication/mbmv24/</link>
+      <link>https://emilyyyu.github.io/publication/mbmv24/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mbmv24/</guid>
+      <guid>https://emilyyyu.github.io/publication/mbmv24/</guid>
       <description>&lt;!-- 
 
 
@@ -125,9 +125,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Certifying Phase Abstraction</title>
-      <link>http://localhost:1313/publication/ijcar24/</link>
+      <link>https://emilyyyu.github.io/publication/ijcar24/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ijcar24/</guid>
+      <guid>https://emilyyyu.github.io/publication/ijcar24/</guid>
       <description>&lt;!-- 
 
 
@@ -166,33 +166,33 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <link>https://emilyyyu.github.io/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
+      <guid>https://emilyyyu.github.io/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <link>https://emilyyyu.github.io/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
+      <guid>https://emilyyyu.github.io/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <link>https://emilyyyu.github.io/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
+      <guid>https://emilyyyu.github.io/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/teaching/js/</link>
+      <link>https://emilyyyu.github.io/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/js/</guid>
+      <guid>https://emilyyyu.github.io/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -235,7 +235,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://emilyyyu.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -312,9 +312,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/teaching/python/</link>
+      <link>https://emilyyyu.github.io/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/python/</guid>
+      <guid>https://emilyyyu.github.io/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -357,7 +357,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://emilyyyu.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -434,9 +434,9 @@ data.head()
     
     <item>
       <title>Certifying Hardware Model Checking</title>
-      <link>http://localhost:1313/publication/thesis/</link>
+      <link>https://emilyyyu.github.io/publication/thesis/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/thesis/</guid>
+      <guid>https://emilyyyu.github.io/publication/thesis/</guid>
       <description>&lt;!-- 
 
 
@@ -475,9 +475,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Stratified Certification for k-induction (Extended Abstract)</title>
-      <link>http://localhost:1313/publication/mbmv23/</link>
+      <link>https://emilyyyu.github.io/publication/mbmv23/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mbmv23/</guid>
+      <guid>https://emilyyyu.github.io/publication/mbmv23/</guid>
       <description>&lt;!-- 
 
 
@@ -516,9 +516,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>BIG Backbones</title>
-      <link>http://localhost:1313/publication/fmcad23a/</link>
+      <link>https://emilyyyu.github.io/publication/fmcad23a/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fmcad23a/</guid>
+      <guid>https://emilyyyu.github.io/publication/fmcad23a/</guid>
       <description>&lt;!-- 
 
 
@@ -557,9 +557,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Approximating Perfect Recall when Model Checking Strategic Abilities: Theory and Applications</title>
-      <link>http://localhost:1313/publication/jair22/</link>
+      <link>https://emilyyyu.github.io/publication/jair22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jair22/</guid>
+      <guid>https://emilyyyu.github.io/publication/jair22/</guid>
       <description>&lt;!-- 
 
 
@@ -598,9 +598,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Hardware Model Checking Certificates</title>
-      <link>http://localhost:1313/publication/benchmark1/</link>
+      <link>https://emilyyyu.github.io/publication/benchmark1/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/benchmark1/</guid>
+      <guid>https://emilyyyu.github.io/publication/benchmark1/</guid>
       <description>&lt;!-- 
 
 
@@ -639,9 +639,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Stratified Certification for k-induction</title>
-      <link>http://localhost:1313/publication/fmcad22/</link>
+      <link>https://emilyyyu.github.io/publication/fmcad22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fmcad22/</guid>
+      <guid>https://emilyyyu.github.io/publication/fmcad22/</guid>
       <description>&lt;!-- 
 
 
@@ -680,9 +680,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Towards Compositional Hardware Model Checking Certification</title>
-      <link>http://localhost:1313/publication/fmcad23b/</link>
+      <link>https://emilyyyu.github.io/publication/fmcad23b/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fmcad23b/</guid>
+      <guid>https://emilyyyu.github.io/publication/fmcad23b/</guid>
       <description>&lt;!-- 
 
 
@@ -721,9 +721,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Unique Reconfiguration Sequence</title>
-      <link>http://localhost:1313/publication/benchmark2/</link>
+      <link>https://emilyyyu.github.io/publication/benchmark2/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/benchmark2/</guid>
+      <guid>https://emilyyyu.github.io/publication/benchmark2/</guid>
       <description>&lt;!-- 
 
 
@@ -762,9 +762,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Progress in Certifying Hardware Model Checking Results</title>
-      <link>http://localhost:1313/publication/cav21/</link>
+      <link>https://emilyyyu.github.io/publication/cav21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cav21/</guid>
+      <guid>https://emilyyyu.github.io/publication/cav21/</guid>
       <description>&lt;!-- 
 
 
@@ -803,9 +803,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Model Checking Temporal Epistemic Logic under Bounded Recall</title>
-      <link>http://localhost:1313/publication/aaai20/</link>
+      <link>https://emilyyyu.github.io/publication/aaai20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/aaai20/</guid>
+      <guid>https://emilyyyu.github.io/publication/aaai20/</guid>
       <description>&lt;!-- 
 
 
@@ -844,9 +844,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>A framework for model checking against CTLK using quantified boolean formulas</title>
-      <link>http://localhost:1313/publication/ftscs19/</link>
+      <link>https://emilyyyu.github.io/publication/ftscs19/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ftscs19/</guid>
+      <guid>https://emilyyyu.github.io/publication/ftscs19/</guid>
       <description>&lt;!-- 
 
 
@@ -885,9 +885,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Certifying Hardware Model Checking Results</title>
-      <link>http://localhost:1313/publication/icfem19/</link>
+      <link>https://emilyyyu.github.io/publication/icfem19/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/icfem19/</guid>
+      <guid>https://emilyyyu.github.io/publication/icfem19/</guid>
       <description>&lt;!-- 
 
 
