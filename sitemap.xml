@@ -161,5 +161,8 @@
     <loc>http://localhost:1313/publication_types/workshop-paper/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
