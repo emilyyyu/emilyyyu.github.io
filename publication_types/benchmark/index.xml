@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benchmark | Emily Yu</title>
-    <link>https://emilyyyu.github.io/publication_types/benchmark/</link>
-      <atom:link href="https://emilyyyu.github.io/publication_types/benchmark/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/benchmark/</link>
+      <atom:link href="http://localhost:1313/publication_types/benchmark/index.xml" rel="self" type="application/rss+xml" />
     <description>Benchmark</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://emilyyyu.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Benchmark</title>
-      <link>https://emilyyyu.github.io/publication_types/benchmark/</link>
+      <link>http://localhost:1313/publication_types/benchmark/</link>
     </image>
     
     <item>
       <title>Hardware Model Checking Certificates</title>
-      <link>https://emilyyyu.github.io/publication/benchmark1/</link>
+      <link>http://localhost:1313/publication/benchmark1/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://emilyyyu.github.io/publication/benchmark1/</guid>
+      <guid>http://localhost:1313/publication/benchmark1/</guid>
       <description>&lt;!-- 
 
 
@@ -55,9 +55,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Unique Reconfiguration Sequence</title>
-      <link>https://emilyyyu.github.io/publication/benchmark2/</link>
+      <link>http://localhost:1313/publication/benchmark2/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://emilyyyu.github.io/publication/benchmark2/</guid>
+      <guid>http://localhost:1313/publication/benchmark2/</guid>
       <description>&lt;!-- 
 
 
