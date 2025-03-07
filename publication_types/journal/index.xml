@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journal | Emily Yu</title>
-    <link>http://localhost:1313/publication_types/journal/</link>
-      <atom:link href="http://localhost:1313/publication_types/journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://emilyyyu.github.io/publication_types/journal/</link>
+      <atom:link href="https://emilyyyu.github.io/publication_types/journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://emilyyyu.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Journal</title>
-      <link>http://localhost:1313/publication_types/journal/</link>
+      <link>https://emilyyyu.github.io/publication_types/journal/</link>
     </image>
     
     <item>
       <title>Approximating Perfect Recall when Model Checking Strategic Abilities: Theory and Applications</title>
-      <link>http://localhost:1313/publication/jair22/</link>
+      <link>https://emilyyyu.github.io/publication/jair22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jair22/</guid>
+      <guid>https://emilyyyu.github.io/publication/jair22/</guid>
       <description>&lt;!-- 
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop-Paper | Emily Yu</title>
-    <link>http://localhost:1313/publication_types/workshop-paper/</link>
-      <atom:link href="http://localhost:1313/publication_types/workshop-paper/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://emilyyyu.github.io/publication_types/workshop-paper/</link>
+      <atom:link href="https://emilyyyu.github.io/publication_types/workshop-paper/index.xml" rel="self" type="application/rss+xml" />
     <description>Workshop-Paper</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://emilyyyu.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Workshop-Paper</title>
-      <link>http://localhost:1313/publication_types/workshop-paper/</link>
+      <link>https://emilyyyu.github.io/publication_types/workshop-paper/</link>
     </image>
     
     <item>
       <title>A framework for model checking against CTLK using quantified boolean formulas</title>
-      <link>http://localhost:1313/publication/ftscs19/</link>
+      <link>https://emilyyyu.github.io/publication/ftscs19/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ftscs19/</guid>
+      <guid>https://emilyyyu.github.io/publication/ftscs19/</guid>
       <description>&lt;!-- 
 
 
