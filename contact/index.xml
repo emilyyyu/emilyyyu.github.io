@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact | Emily Yu</title>
-    <link>https://emilyyyu.github.io/contact/</link>
-      <atom:link href="https://emilyyyu.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/contact/</link>
+      <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
     <description>Contact</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://emilyyyu.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Contact</title>
-      <link>https://emilyyyu.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
     </image>
     
   </channel>

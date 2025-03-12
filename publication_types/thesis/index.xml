@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thesis | Emily Yu</title>
-    <link>https://emilyyyu.github.io/publication_types/thesis/</link>
-      <atom:link href="https://emilyyyu.github.io/publication_types/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/thesis/</link>
+      <atom:link href="http://localhost:1313/publication_types/thesis/index.xml" rel="self" type="application/rss+xml" />
     <description>Thesis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://emilyyyu.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Thesis</title>
-      <link>https://emilyyyu.github.io/publication_types/thesis/</link>
+      <link>http://localhost:1313/publication_types/thesis/</link>
     </image>
     
     <item>
       <title>Certifying Hardware Model Checking</title>
-      <link>https://emilyyyu.github.io/publication/thesis/</link>
+      <link>http://localhost:1313/publication/thesis/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://emilyyyu.github.io/publication/thesis/</guid>
+      <guid>http://localhost:1313/publication/thesis/</guid>
       <description>&lt;!-- 
 
 
