@@ -2,33 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://ist.ac.at/en/home/'>Institute of Science and Technology Austria</a>. Klosterneuburg, Austria. 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>To reach me:</p>
+    <p>Emily.yu2019@gmail.com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 5
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Since September 2023, I have been a postdoctoral researcher in <a href='https://pub.ista.ac.at/group_henzinger/'>Prof. Thomas Henzinger</a>’s group at the Institute of Science and Technology Austria. I received my PhD in the doctoral program ‘Logical Methods in Computer Science’ (LogiCS) funded by FWF, and the LIT AI Lab under the supervision of <a href='https://cca.informatik.uni-freiburg.de/biere/'>Prof. Armin Biere</a>, at the Johannes Kepler University Linz in Austria. My thesis was on hardware model checking certification. Before that, I completed my undergraduate studies in the Department of Computing at Imperial College London, UK, where I was advised by <a href='https://www.doc.ic.ac.uk/~alessio/index.html'>Prof. Alessio Lomuscio</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on **formal verification** and **runtime monitoring** for complex safety-critical systems, with a particular emphasis on integrating automated reasoning methodologies into learning neural-based control, and hardware systems. Recently, I also work on verification of neural networks.
+
+My goal is to advance *trusted automated reasoning* in verification—from developing rigorous certifying methodologies to integrating runtime monitors and predictive analysis. If you’re interested in how to make machine learning systems verifiably safe, or formally proving the correctness of hardware designs, you’re in the right place.
+
+Feel free to check out my [publications](/publications/) or connect with me via email.  
+
