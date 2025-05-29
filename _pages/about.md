@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>To reach me:</p>
-    <p>Emily.yu2019@gmail.com</p>
+    <p>emily.yu2019@gmail.com</p>
 
 selected_papers: false
 social: true
@@ -30,22 +30,16 @@ My research focuses on formal verification and runtime monitoring for complex sa
 My current research interests include:
 
 1. **System Verification**
-  
-	– Model checking and certification techniques
+ - Model checking and certification techniques
+ - Hardware verification using SAT-based methods
+ - Formal reasoning in multi-agent systems
 
-	– Hardware verification using SAT-based methods
+2. **Trustworthy AI and Safe Autonomy**
+  - Runtime monitoring for learning-enabled systems
+  - Formal verification of neural policies and certificates
 
-	– Formal reasoning in multi-agent systems
+3. **Neural Network Verification**
+  - Theoretical and practical analysis of neural networks in isolation
 
-2. **Trustworthy AI and Safe Autonomy** 
- 
- 	- Runtime monitoring for learning-enabled systems
-
-	- Formal verification of neural policies and certificates
-
-3. **Neural Network Verification**  
-
- 	- Theoretical and practical analysis of neural networks in isolation
-
-Feel free to check out my [publications](/publications/) or connect with me via email.  
+Check out my [publications](/publications/) or connect with me via email.
 
