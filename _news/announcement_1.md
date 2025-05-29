@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I got FWF Esprit fellowship from the Austrian Science Fund. :sparkles:
+I got the FWF Esprit fellowship from the Austrian Science Fund. :sparkles:
