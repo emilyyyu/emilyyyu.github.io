@@ -51,8 +51,8 @@ ninja.data = [{
           section: "News",},{id: "news-fabian-kresse-will-be-presenting-our-paper-at-neus-in-philadelpha",
           title: 'Fabian Kresse, will be presenting our paper at NeuS in Philadelpha!',
           description: "",
-          section: "News",},{id: "news-i-will-be-joining-leiden-university-as-a-tenure-track-assistant-professor-this-autumn-get-in-touch-if-you-re-interested-in-doing-a-phd-in-system-verification-cherry-blossom",
-          title: 'I will be joining Leiden University as a tenure-track Assistant Professor this autumn....',
+          section: "News",},{id: "news-i-will-be-joining-leiden-university-as-a-tenure-track-assistant-professor-this-autumn-sparkles",
+          title: 'I will be joining Leiden University as a tenure-track Assistant Professor this autumn!...',
           description: "",
           section: "News",},{
         id: 'social-email',
