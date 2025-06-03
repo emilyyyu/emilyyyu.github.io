@@ -41,5 +41,5 @@ My current research interests include:
 3. **Neural Network Verification**
   - Theoretical and practical analysis of neural networks in isolation
 
-Check out my [publications](/publications/) or connect with me via email.
+Check out my [publications](/publications/) or connect with me via email. If you are interested in doing a PhD with me, feel free to reach out.
 
