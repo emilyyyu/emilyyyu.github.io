@@ -5,8 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Fabian Kresse, will be presenting our paper at NeuS in Philadelpha!
-
+Our paper, titled "Logic Gate Neural Networks are Good for Verification", received the DARPA award at NeuS!
 ---
 
 
