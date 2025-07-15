@@ -54,9 +54,6 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-formal-verification-of-neural-certificates-done-dynamically-was-accepted-to-rv-2025-hope-to-see-you-in-graz",
           title: 'Our paper, “Formal Verification of Neural Certificates Done Dynamically”, was accepted to RV...',
           description: "",
-          section: "News",},{id: "news-i-will-be-joining-leiden-university-as-a-tenure-track-assistant-professor-this-autumn-sparkles",
-          title: 'I will be joining Leiden University as a tenure-track Assistant Professor this autumn!...',
-          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
