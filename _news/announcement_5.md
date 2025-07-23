@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2025-07-13 16:11:00-0400
+date: 2025-07-23 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper, "Formal Verification of Neural Certificates Done Dynamically", was accepted to RV 2025! Hope to see you in Graz!
+Our paper, "Introducing Certificates to the Hardware Model Checking Competition", received the Distinguished Paper Award at CAV!
 
 ---
 
