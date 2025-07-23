@@ -54,6 +54,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-formal-verification-of-neural-certificates-done-dynamically-was-accepted-to-rv-2025-hope-to-see-you-in-graz",
           title: 'Our paper, “Formal Verification of Neural Certificates Done Dynamically”, was accepted to RV...',
           description: "",
+          section: "News",},{id: "news-our-paper-introducing-certificates-to-the-hardware-model-checking-competition-received-the-distinguished-paper-award-at-cav",
+          title: 'Our paper, “Introducing Certificates to the Hardware Model Checking Competition”, received the Distinguished...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
