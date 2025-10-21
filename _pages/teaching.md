@@ -7,8 +7,12 @@ nav_order: 6
 ---
 
 **Courses**
+At Leiden University, I am teaching the following:
+
 - Software Engineering (Spring 2026)
+
 - Formal Methods for Intelligent Systems (Winter 2026) stay tuned!
+  This is a course that I will design by myself, covering key topics of safe AI and automated reasoning. If you are designing and/or teach a similar course and are interested in course design, feel free to reach out to me. I am always happy to discuss about it!
 
 **Bachelor and Master Projects**
 
