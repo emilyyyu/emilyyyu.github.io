@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /team/
 title: Veritas@Leiden
 nav: true
 nav_order: 6
