@@ -7,6 +7,7 @@ nav_order: 6
 ---
 
 **Courses**
+
 At Leiden University, I am teaching the following:
 
 - Software Engineering (Spring 2026)
