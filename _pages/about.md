@@ -44,5 +44,5 @@ My current research interests include:
 
 Check out my [publications](/publications/) or connect with me via email. 
 
-**I am looking to recruit Ph.D. students!** If you are interested in doing a PhD with me, feel free to reach out.
+**I am looking to recruit Ph.D. students,** and happy to discuss about CSC scholarships. If you are interested in doing a PhD with me, feel free to reach out.
 
