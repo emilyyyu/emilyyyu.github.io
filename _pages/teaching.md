@@ -10,7 +10,7 @@ nav_order: 6
 - Software Engineering (Spring 2026)
 - Formal Methods for Intelligent Systems (Winter 2026) stay tuned!
 
-**Bachelor and Master projects**
+**Bachelor and Master Projects**
 
 I am always excited to work with motivated students. Below are a few directions and example topics, but I’m equally happy to hear your ideas. Feel free to also browse my publications for inspiration.
 
