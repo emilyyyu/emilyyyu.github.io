@@ -37,7 +37,7 @@ Formal methods are widely used to guarantee the correctness of safety-critical s
 
 If this fits you:
 
-- You like algorithmic implementation (C++ preferred) and are interested in SAT/SMT, model checking, and formal methods.
+- You enjoy implementing algorithms (C++ preferred) and are interested in formal methods such as SAT/SMT and model checking.
 
 - We have projects regarding case studies, building and evaluating tools, and theoretical advances.
 
