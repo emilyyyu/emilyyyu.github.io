@@ -64,6 +64,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-introducing-certificates-to-the-hardware-model-checking-competition-received-the-distinguished-paper-award-at-cav",
           title: 'Our paper, “Introducing Certificates to the Hardware Model Checking Competition”, received the Distinguished...',
           description: "",
+          section: "News",},{id: "news-looking-forward-to-give-an-invited-talk-at-tu-delft-on-19-november-2025",
+          title: 'Looking forward to give an invited talk at TU Delft, on 19 November...',
+          description: "",
+          section: "News",},{id: "news-looking-forward-to-give-an-invited-talk-at-ieee-women-in-circuits-and-systems-young-professionals-wicas-yp-symposium-which-will-be-held-on-26-november-2025-in-leiden",
+          title: 'Looking forward to give an invited talk at IEEE Women in Circuits and...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
