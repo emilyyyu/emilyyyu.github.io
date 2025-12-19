@@ -7,6 +7,8 @@ nav_order: 6
 ---
 
 ### Member of Program Committee
+
+- Int. Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026);
 - Post-AI Formal Methods Workshop, 2026  
 - AAAI Conference on Artificial Intelligence (AAAI), 2026  
 - European Conference on Artificial Intelligence (ECAI), 2025  
@@ -18,6 +20,7 @@ nav_order: 6
 ---
 
 ### Member of Artifact Evaluation Committee
+
 - International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2024  
 - International Symposium on Formal Methods (FM), 2024  
 - International Symposium on Automated Technology for Verification and Analysis (ATVA), 2024  
@@ -25,6 +28,7 @@ nav_order: 6
 ---
 
 ### Journal Referee
+
 - *Science of Computer Programming*, 2025  
 - *Journal of Artificial Intelligence Research (JAIR)*, 2025  
 - *Formal Aspects of Computing Journal*, 2025  
@@ -32,10 +36,12 @@ nav_order: 6
 ---
 
 ### Conference (Sub-)Referee
+
 - International Conference on Neuro-Symbolic Systems (NeuS), 2025  
 - International Conference on Automated Deduction (CADE), 2025  
 
 ---
 
 ### Scientific Referent for Funding Agencies
+
 - French National Research Agency (ANR), 2025  

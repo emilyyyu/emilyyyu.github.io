@@ -31,18 +31,22 @@ My research focuses on formal verification and runtime monitoring for complex sa
 My current research interests include:
 
 1. **System Verification**
- - Model checking and certification techniques
- - Hardware verification using SAT-based methods
- - Formal reasoning in multi-agent systems
+   
+   - Model checking and certification techniques
+   - Hardware verification using SAT-based methods
+   - Formal reasoning in multi-agent systems
 
 2. **Trustworthy AI and Safe Autonomy**
-  - Runtime monitoring for learning-enabled systems
-  - Formal verification of neural policies and certificates
+   
+   - Runtime monitoring for learning-enabled systems
+   - Formal verification of neural policies and certificates
 
 3. **Neural Network Verification**
-  - Theoretical and practical analysis of neural networks in isolation
+   
+   - Theoretical and practical analysis of neural networks in isolation
 
 Check out my [publications](/publications/) or connect with me via email. 
 
-**I am looking to recruit Ph.D. students,** and happy to discuss about CSC scholarships. If you are interested in doing a PhD with me, feel free to reach out.
+**I am looking to recruit Ph.D. students,** and happy to discuss about CSC scholarships. If you are interested in doing a PhD with me, feel free to reach out (with your CV and transcripts attached). In your email, please briefly explain how your research interests align with my work and why you believe this would be a good fit.
+
 
