@@ -70,6 +70,9 @@ ninja.data = [{
           section: "News",},{id: "news-looking-forward-to-give-an-invited-talk-at-ieee-women-in-circuits-and-systems-young-professionals-wicas-yp-symposium-which-will-be-held-on-26-november-2025-in-leiden",
           title: 'Looking forward to give an invited talk at IEEE Women in Circuits and...',
           description: "",
+          section: "News",},{id: "news-two-papers-accepted-to-fm-2026",
+          title: 'Two papers accepted to FM 2026!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
