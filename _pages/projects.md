@@ -10,6 +10,7 @@ nav_order: 6
 
 - Int. Conference on Formal Methods in Computer-Aided Design (FMCAD), 2026
 - Int. Joint Conference on Artificial Intelligence (IJCAI-ECAI), 2026
+- Int. Symposium of Electronics Design Automation (ISEDA), 2026;
 - Post-AI Formal Methods Workshop, 2026  
 - AAAI Conference on Artificial Intelligence (AAAI), 2026  
 - European Conference on Artificial Intelligence (ECAI), 2025  
