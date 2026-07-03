@@ -79,6 +79,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-giving-a-series-of-6-lectures-at-the-setss-spring-school-2026",
           title: 'I will be giving a series of 6 lectures at the SETSS spring...',
           description: "",
+          section: "News",},{id: "news-two-papers-accepted-at-floc-2026-looking-forward-to-seeing-you-in-lisbon",
+          title: 'Two papers accepted at FLOC 2026. Looking forward to seeing you in Lisbon!...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
@@ -100,30 +103,4 @@ ninja.data = [{
         handler: () => {
           window.open("https://scholar.google.com/citations?user=SGaveVMAAAAJ", "_blank");
         },
-      },{
-      id: 'light-theme',
-      title: 'Change theme to light',
-      description: 'Change the theme of the site to Light',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("light");
-      },
-    },
-    {
-      id: 'dark-theme',
-      title: 'Change theme to dark',
-      description: 'Change the theme of the site to Dark',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("dark");
-      },
-    },
-    {
-      id: 'system-theme',
-      title: 'Use system default theme',
-      description: 'Change the theme of the site to System Default',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("system");
-      },
-    },];
+      },];
