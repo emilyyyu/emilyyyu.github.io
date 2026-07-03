@@ -583,6 +583,31 @@ footer.sticky-bottom {
   }
 }
 
+.post-title-with-logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.post-title-logo {
+  width: clamp(8rem, 24vw, 13rem);
+  height: auto;
+  flex: 0 0 auto;
+}
+
+@media (max-width: 575px) {
+  .post-title-with-logo {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .post-title-logo {
+    width: 9.5rem;
+  }
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;

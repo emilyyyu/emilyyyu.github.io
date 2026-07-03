@@ -24,5 +24,24 @@
         {% endif %}
       </td>
     </tr>
+    {% if content[0] == 'email' and page.cv_pdf %}
+      <tr>
+        <td class="p-1 pr-2 font-weight-bold"></td>
+        <td class="p-1 pl-2 font-weight-light text">
+          <a
+            {% if page.cv_pdf contains '://' %}
+              href="{{ page.cv_pdf }}"
+            {% else %}
+              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+            {% endif %}
+            target="_blank"
+            rel="noopener noreferrer"
+            title="download CV"
+          >
+            <i class="fa-solid fa-file-pdf"></i>
+          </a>
+        </td>
+      </tr>
+    {% endif %}
   {% endfor %}
 </table>

@@ -51,3 +51,129 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+/*****************************************************************************
+* Veritas team
+*****************************************************************************/
+
+.veritas-team {
+  .veritas-intro {
+    margin-bottom: 2rem;
+
+    h2 {
+      margin-bottom: 0.9rem;
+      font-size: 1.35rem;
+      font-weight: 600;
+    }
+
+    p {
+      line-height: 1.65;
+    }
+  }
+
+  .veritas-section {
+    margin-top: 2.35rem;
+
+    h2 {
+      padding-bottom: 0.4rem;
+      margin-bottom: 1rem;
+      border-bottom: 1px solid var(--global-divider-color);
+      font-size: 1.15rem;
+      font-weight: 600;
+    }
+  }
+
+  .veritas-people-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+  }
+
+  .veritas-people-grid-featured {
+    grid-template-columns: minmax(240px, 420px);
+  }
+
+  .veritas-person-card {
+    display: grid;
+    grid-template-columns: 96px minmax(0, 1fr);
+    gap: 1rem;
+    align-items: center;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--global-divider-color);
+  }
+
+  .veritas-person-photo {
+    width: 96px;
+    height: 112px;
+    object-fit: cover;
+    border-radius: 6px;
+    background: var(--global-card-bg-color);
+  }
+
+  .veritas-person-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--global-divider-color);
+    color: var(--global-theme-color);
+    font-size: 1.4rem;
+    font-weight: 600;
+    letter-spacing: 0;
+  }
+
+  .veritas-person-info {
+    h3 {
+      margin: 0 0 0.25rem;
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+
+    p {
+      margin-bottom: 0.25rem;
+    }
+
+    .veritas-role {
+      font-weight: 500;
+    }
+  }
+
+  .veritas-table-wrap {
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  .veritas-student-table {
+    width: 100%;
+    border-collapse: collapse;
+
+    th,
+    td {
+      padding: 0.45rem 1rem 0.45rem 0;
+      border-bottom: 1px solid var(--global-divider-color);
+      vertical-align: top;
+    }
+
+    th {
+      font-weight: 600;
+    }
+  }
+
+  .veritas-guests {
+    p {
+      margin-bottom: 0;
+    }
+  }
+}
+
+@media (max-width: 575px) {
+  .veritas-team {
+    .veritas-person-card {
+      grid-template-columns: 80px minmax(0, 1fr);
+    }
+
+    .veritas-person-photo {
+      width: 80px;
+      height: 96px;
+    }
+  }
+}

@@ -8,7 +8,11 @@ nav_order: 6
 
 ### Member of Program Committee
 
+- AAAI Conference on Artificial Intelligence (AAAI), 2027
+- SETSS 2026 Spring School on Engineering Trustworthy Software Systems, 2026
+- Int. Conference on Computer Design (ICCD), 2026
 - Int. Conference on Formal Methods in Computer-Aided Design (FMCAD), 2026
+- Int. Conference on Formal Methods in Computer-Aided Design (FMCAD) Student Forum, 2026
 - Int. Joint Conference on Artificial Intelligence (IJCAI-ECAI), 2026
 - Int. Symposium of Electronics Design Automation (ISEDA), 2026;
 - Post-AI Formal Methods Workshop, 2026  
@@ -16,7 +20,7 @@ nav_order: 6
 - European Conference on Artificial Intelligence (ECAI), 2025  
 - International Joint Conference on Artificial Intelligence (IJCAI), 2025  
 - International Conference on Formal Methods in Computer-Aided Design (FMCAD), 2025  
-- International Conference on Formal Methods in Computer-Aided Design (FMCAD) — Student Forum, 2025  
+- International Conference on Formal Methods in Computer-Aided Design (FMCAD) Student Forum, 2025  
 - International Conference on Integrated Formal Methods (iFM), 2024  
 
 ---
