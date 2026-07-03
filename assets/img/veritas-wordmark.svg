@@ -1,28 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 150" role="img" aria-labelledby="title desc">
   <title id="title">Veritas wordmark</title>
-  <desc id="desc">A calligraphic Veritas wordmark in Leiden-style blue with a red accent stroke.</desc>
-  <path
-    d="M36 56 C58 42 76 43 86 57 C95 70 88 88 70 107 C62 116 55 121 48 124 C43 126 39 124 38 119 C36 111 47 98 59 87 C70 77 78 68 76 62 C74 56 64 55 48 62 C37 67 26 76 16 88"
-    fill="none"
-    stroke="#001158"
-    stroke-width="10"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-  />
+  <desc id="desc">A Veritas wordmark with a capital V on a rose-pink circle and eritas in Leiden-style blue.</desc>
+  <circle cx="70" cy="74" r="48" fill="#e85a9b" />
   <text
-    x="84"
-    y="99"
+    x="41"
+    y="101"
+    fill="#ffffff"
+    font-family="Palatino, 'Palatino Linotype', 'Book Antiqua', Georgia, serif"
+    font-size="84"
+    font-style="italic"
+    font-weight="600"
+    letter-spacing="0"
+  >V</text>
+  <text
+    x="118"
+    y="100"
     fill="#001158"
     font-family="Palatino, 'Palatino Linotype', 'Book Antiqua', Georgia, serif"
     font-size="82"
     font-style="italic"
     font-weight="500"
     letter-spacing="0"
-  >veritas</text>
+  >eritas</text>
   <path
-    d="M108 115 C194 137 340 132 494 111"
+    d="M126 115 C214 136 346 132 494 111"
     fill="none"
-    stroke="#b01c2e"
+    stroke="#e85a9b"
     stroke-width="5"
     stroke-linecap="round"
   />

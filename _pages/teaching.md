@@ -5,6 +5,20 @@ title: teaching
 nav: true
 nav_order: 6
 _styles: >
+  .teaching-list h2 {
+    width: 100%;
+    padding: 0.65rem 0.85rem;
+    margin: 1.7rem 0 1rem;
+    background: #eeeeee;
+    color: var(--global-text-color);
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+
+  html[data-theme="dark"] .teaching-list h2 {
+    background: #3a3a3d;
+  }
+
   .teaching-list h3 {
     margin-top: 1.5rem;
     padding-bottom: 0.35rem;
@@ -16,6 +30,20 @@ _styles: >
   .teaching-list p {
     margin-bottom: 0.85rem;
   }
+
+  .teaching-client-note {
+    padding: 0.75rem 0.9rem;
+    margin: 0.8rem 0 1rem;
+    border-left: 4px solid var(--global-theme-color);
+    background: rgba(232, 90, 155, 0.12);
+    color: var(--global-text-color);
+    font-weight: 500;
+  }
+
+  .teaching-course-accent {
+    color: var(--global-theme-color);
+    font-weight: 600;
+  }
 ---
 
 <div class="teaching-list" markdown="1">
@@ -26,17 +54,17 @@ Here I list the courses associated with my teaching at Leiden University.
 
 ### Spring 2027
 
-[Software Engineering](https://studiegids.universiteitleiden.nl/)  
+<span class="teaching-course-accent">Software Engineering</span> · 6 ECTS  
 As part of the course, students carry out real-world software projects in collaboration with [LUdev](https://ludev.nl/).
+
+I am currently designing lecture materials that cover modern software development and examine how AI automation is reshaping every stage of the traditional software development lifecycle. One of the questions of the course is: how can the next generation of software engineers leverage these advances to dramatically improve their productivity and prepare for their careers?
+
+<p class="teaching-client-note">If you have a commercial or academic software project that could benefit from a student team, and you would be interested in acting as a client for the course, please drop me an email.</p>
 
 ### Winter 2026
 
-Formal Methods for AI  
+<span class="teaching-course-accent">Formal Methods for AI</span> · 6 ECTS  
 This is a course that I will design by myself, covering key topics of safe AI and automated reasoning. If you are designing and/or teach a similar course and are interested in course design, feel free to reach out to me. I am always happy to discuss it.
-
-### Spring 2026
-
-Software Engineering
 
 ---
 
