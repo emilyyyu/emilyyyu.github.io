@@ -125,6 +125,13 @@
               </button>
             </li>
           {% endif %}
+          <li class="nav-item language-switcher">
+            {% if page.permalink == '/de/' %}
+              <a class="nav-link" href="{{ '/' | relative_url }}" lang="en">EN</a>
+            {% else %}
+              <a class="nav-link" href="{{ '/de/' | relative_url }}" lang="de">DE</a>
+            {% endif %}
+          </li>
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">
