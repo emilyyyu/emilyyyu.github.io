@@ -22,9 +22,9 @@ announcements:
 
 ---
 
-As of October 2025, I am a tenured assistant professor in Computer Science at Leiden University in the Netherlands. 
+I am a tenured assistant professor in Computer Science at Leiden University in the Netherlands. 
 
-In the past, I was a postdoctoral researcher in <a href='https://pub.ista.ac.at/group_henzinger/'>Prof. Thomas Henzinger</a>’s group at the Institute of Science and Technology Austria. I received my PhD in the doctoral program ‘Logical Methods in Computer Science’ (LogiCS) funded by FWF, and the LIT AI Lab under the supervision of <a href='https://cca.informatik.uni-freiburg.de/biere/'>Prof. Armin Biere</a>, at the Johannes Kepler University Linz in Austria. My thesis was on hardware model checking certification. Before that, I completed my undergraduate studies in the Department of Computing at Imperial College London, UK, where I was advised by <a href='https://www.doc.ic.ac.uk/~alessio/index.html'>Prof. Alessio Lomuscio</a>.
+In the past, I was a postdoctoral researcher in <a href='https://pub.ista.ac.at/group_henzinger/'>Prof. Thomas Henzinger</a>’s group at the Institute of Science and Technology Austria. I received my PhD in 2023 in the doctoral program ‘Logical Methods in Computer Science’ (LogiCS) funded by FWF, and the LIT AI Lab under the supervision of <a href='https://cca.informatik.uni-freiburg.de/biere/'>Prof. Armin Biere</a>, at the Johannes Kepler University Linz in Austria. My thesis was on hardware model checking certification. Before that, I completed my undergraduate studies in the Department of Computing at Imperial College London, UK, where I was advised by <a href='https://www.doc.ic.ac.uk/~alessio/index.html'>Prof. Alessio Lomuscio</a>.
 
 ## Research
 
@@ -50,7 +50,7 @@ My research develops formal methods and automated reasoning techniques for build
     </div>
   </details>
 
-  <details class="research-topic-card">
+<details class="research-topic-card">
     <summary>
       <span>Automated Reasoning and Hardware Model Checking</span>
       <i class="fa-solid fa-chevron-down"></i>
