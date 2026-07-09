@@ -1461,3 +1461,27 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+$heart-cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Cpath fill='%23e60023' stroke='white' stroke-width='2' d='M16 28S4 20.6 4 11.8C4 7.2 7.2 4 11.3 4c2.4 0 4.1 1.2 4.7 2.1C16.6 5.2 18.3 4 20.7 4C24.8 4 28 7.2 28 11.8C28 20.6 16 28 16 28z'/%3E%3C/svg%3E")
+  16 16;
+
+html,
+body,
+body *:not(a):not(button):not(input):not(textarea):not(select):not([role="button"]):not([role="button"] *) {
+  cursor: $heart-cursor, auto !important;
+}
+
+a,
+button,
+input,
+textarea,
+select,
+[role="button"],
+[role="button"] * {
+  cursor: pointer !important;
+}
+
+input,
+textarea {
+  cursor: text !important;
+}
