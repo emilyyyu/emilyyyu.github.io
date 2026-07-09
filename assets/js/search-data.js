@@ -82,6 +82,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-accepted-at-floc-2026-looking-forward-to-seeing-you-in-lisbon",
           title: 'Two papers accepted at FLOC 2026. Looking forward to seeing you in Lisbon!...',
           description: "",
+          section: "News",},{id: "news-i-will-give-a-lecture-at-the-upcoming-ipa-fall-days-a-dutch-phd-school-in-november",
+          title: 'I will give a lecture at the upcoming IPA Fall Days, a Dutch...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
