@@ -29,6 +29,8 @@ My work on certification has influenced the development of hardware model checki
 
 Before joining Leiden, I was a postdoctoral researcher (2023-2025) in <a href='https://pub.ista.ac.at/group_henzinger/'>Prof. Thomas Henzinger</a>’s group at the Institute of Science and Technology Austria. I received my PhD in 2023 in the doctoral program ‘Logical Methods in Computer Science’ (LogiCS) funded by FWF, and the LIT AI Lab under the supervision of <a href='https://cca.informatik.uni-freiburg.de/biere/'>Prof. Armin Biere</a>, at the Johannes Kepler University Linz in Austria. My thesis was on hardware model checking certification. Before that, I completed my undergraduate studies in the Department of Computing at Imperial College London, UK, where I was advised by <a href='https://www.doc.ic.ac.uk/~alessio/index.html'>Prof. Alessio Lomuscio</a>.
 
+<p class="phd-note">Interested in doing a PhD with me? Please feel free to get in touch by email with your CV, transcript, and a brief note explaining how your research interests align with the Veritas Lab. Additionally, there may also be opportunities to apply for a CSC scholarship.</p>
+
 ## Research
 
 My research develops formal methods and automated reasoning techniques for building trustworthy systems, with a focus on safety-critical hardware and learning-enabled autonomous systems. Current topics include:
