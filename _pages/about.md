@@ -22,9 +22,12 @@ announcements:
 
 ---
 
-I am a tenured assistant professor in Computer Science at Leiden University in the Netherlands. 
+I am a tenured assistant professor in Computer Science at Leiden University in the Netherlands.
 
-In the past, I was a postdoctoral researcher in <a href='https://pub.ista.ac.at/group_henzinger/'>Prof. Thomas Henzinger</a>’s group at the Institute of Science and Technology Austria. I received my PhD in 2023 in the doctoral program ‘Logical Methods in Computer Science’ (LogiCS) funded by FWF, and the LIT AI Lab under the supervision of <a href='https://cca.informatik.uni-freiburg.de/biere/'>Prof. Armin Biere</a>, at the Johannes Kepler University Linz in Austria. My thesis was on hardware model checking certification. Before that, I completed my undergraduate studies in the Department of Computing at Imperial College London, UK, where I was advised by <a href='https://www.doc.ic.ac.uk/~alessio/index.html'>Prof. Alessio Lomuscio</a>.
+My research broadly develops formal methods and automated reasoning techniques for building trustworthy systems. A central theme of my work is certification - designing independently checkable evidence that makes verification process more reliable and transparent for safety-critical systems.
+My work on certification has influenced the development of hardware model checking infrastructure and competition workflows. This line of work received Distinguished Paper Awards at CAV 2025 and CAV 2026, the most prestigious conference in formal verification. I also previously received the highly competitive ESPRIT fellowship in Austria.
+
+Before joining Leiden, I was a postdoctoral researcher (2023-2025) in <a href='https://pub.ista.ac.at/group_henzinger/'>Prof. Thomas Henzinger</a>’s group at the Institute of Science and Technology Austria. I received my PhD in 2023 in the doctoral program ‘Logical Methods in Computer Science’ (LogiCS) funded by FWF, and the LIT AI Lab under the supervision of <a href='https://cca.informatik.uni-freiburg.de/biere/'>Prof. Armin Biere</a>, at the Johannes Kepler University Linz in Austria. My thesis was on hardware model checking certification. Before that, I completed my undergraduate studies in the Department of Computing at Imperial College London, UK, where I was advised by <a href='https://www.doc.ic.ac.uk/~alessio/index.html'>Prof. Alessio Lomuscio</a>.
 
 ## Research
 
