@@ -33,64 +33,87 @@ Vor meiner Zeit in Leiden war ich Postdoktorandin (2023-2025) in der Gruppe von 
 
 <p class="phd-note">Interesse an einer Promotion bei mir? Schreiben Sie mir gerne eine E-Mail mit Ihrem Lebenslauf, Ihrem Transcript und einer kurzen Erklärung, wie Ihre Forschungsinteressen zum Veritas Lab passen. Zusätzlich kann es Möglichkeiten geben, sich für ein CSC-Stipendium zu bewerben.</p>
 
-## Forschung
+## Forschungsrichtungen
 
-Meine Forschung entwickelt formale Methoden und automatisierte Schlussfolgerungsverfahren für den Bau vertrauenswürdiger Systeme, mit Schwerpunkt auf sicherheitskritischer Hardware und lernbasierten autonomen Systemen. Aktuelle Themen sind:
+Meine Forschung entwickelt praktische Methoden, um festzustellen, ob komplexe Systeme sicher und korrekt sind, und um überprüfbare Belege für ihre Ergebnisse zu liefern. Meine Arbeit konzentriert sich auf vier miteinander verbundene Richtungen:
 
-<div class="research-topic-grid">
-  <details class="research-topic-card">
-    <summary>
-      <span>Neuronale Regelung für sichere Autonomie</span>
-      <i class="fa-solid fa-chevron-down"></i>
-    </summary>
-    <div class="research-topic-body">
-      <p>
-        Ich arbeite an Methoden, die lernbasierte Regelungssysteme sicherer und vertrauenswürdiger machen, insbesondere
-        durch neuronale Zertifikate, Laufzeitüberwachung und formale Garantien für autonome Systeme.
-      </p>
-      <p class="research-topic-label">Forschungsthemen:</p>
-      <ul>
-        <li>Wie können wir neuronale Zertifikate synthetisieren, die formale Spezifikationen für gelernte Controller beweisen?</li>
-        <li>Wie können Laufzeitmonitore formale Sicherheitsgarantien für lernbasierte autonome Systeme durchsetzen?</li>
-        <li>Wie lassen sich formale Logik, Regelungstechnik und maschinelles Lernen zu praktischen Verifikationswerkzeugen verbinden?</li>
-      </ul>
-    </div>
-  </details>
+<div class="research-direction-grid">
+  <article class="research-direction">
+    <img class="research-direction-visual" src="{{ '/assets/img/research-runtime-monitoring.webp' | relative_url }}" alt="Laufzeitmonitor beobachtet einen autonomen Rover und sagt ein Hindernis voraus">
+    <h3>Laufzeitüberwachung</h3>
+    <p>
+      Manche Systeme können vor ihrem Einsatz nicht vollständig analysiert werden, insbesondere wenn ihre Dynamik
+      unbekannt ist. Wir entwickeln Monitore, die ihr Verhalten beobachten, Sicherheitsverletzungen vorhersagen und
+      rechtzeitiges Eingreifen ermöglichen.
+    </p>
+  </article>
 
-  <details class="research-topic-card">
-    <summary>
-      <span>Automatisiertes Schließen und Hardware Model Checking</span>
-      <i class="fa-solid fa-chevron-down"></i>
-    </summary>
-    <div class="research-topic-body">
-      <p>
-        Ich entwickle Zertifizierungs- und Verifikationstechniken für Hardware und solverbasierte Schlussfolgerung,
-        darunter SAT-basiertes Model Checking, unabhängig prüfbare Zertifikate und vertrauenswürdige automatisierte Reasoning-Pipelines.
-      </p>
-      <p class="research-topic-label">Forschungsthemen:</p>
-      <ul>
-        <li>Wie können Ergebnisse des Model Checkings für Hardware-Designs durch unabhängig prüfbare Zertifikate begleitet werden?</li>
-        <li>Wie können wir Zertifikate nutzen, um LLMs auf Performanz und Effizienz zu optimieren, ohne Korrektheit und Sicherheit zu opfern?</li>
-        <li>Wie kann automatisiertes Schließen auf komplexe sicherheitskritische Systeme skalieren, ohne Korrektheitsgarantien aufzugeben?</li>
-      </ul>
-    </div>
-  </details>
+  <article class="research-direction">
+    <img class="research-direction-visual" src="{{ '/assets/img/research-automated-reasoning.webp' | relative_url }}" alt="Automatisierte Reasoning-Engine untersucht sichere und unsichere Systemverhalten">
+    <h3>Automatisiertes Schließen und Model Checking</h3>
+    <p>
+      Wir untersuchen, wie automatisierte Reasoning-Technologien wie SAT, SMT und Model Checking die skalierbare
+      Verifikation sicherheitskritischer Systeme ermöglichen können.
+    </p>
+  </article>
+
+  <article class="research-direction">
+    <img class="research-direction-visual" src="{{ '/assets/img/research-ai-verification.webp' | relative_url }}" alt="Neuronales Netz durchläuft einen formalen Verifikationsscanner">
+    <h3>KI-Verifikation</h3>
+    <p>
+      KI-Modelle sind leistungsfähig, doch ihre Entscheidungen sind oft schwer zu verstehen und abzusichern. Wir
+      entwickeln Methoden zur Prüfung ihrer Sicherheit, Robustheit und Fairness sowie leichter verifizierbare
+      Lernarchitekturen.
+    </p>
+  </article>
+
+  <article class="research-direction">
+    <img class="research-direction-visual" src="{{ '/assets/img/research-certification.webp' | relative_url }}" alt="Verifikationswerkzeug erzeugt einen Beweis für einen unabhängigen Zertifikatsprüfer">
+    <h3>Zertifizierung</h3>
+    <p>
+      Verifikationswerkzeuge sind selbst komplex und können Fehler enthalten. Wir entwickeln formale Beweise und
+      unabhängige Prüfer, damit Verifikationsergebnisse kompakte, maschinenprüfbare Korrektheitsnachweise enthalten.
+    </p>
+  </article>
 </div>
 
-<script>
-  document.querySelectorAll(".research-topic-card").forEach((card) => {
-    card.addEventListener("toggle", () => {
-      if (card.dataset.syncing === "true") return;
+## Ausgewahlte Publikationen
 
-      const cards = document.querySelectorAll(".research-topic-card");
-      cards.forEach((otherCard) => {
-        if (otherCard === card) return;
-        otherCard.dataset.syncing = "true";
-        otherCard.open = card.open;
-        otherCard.dataset.syncing = "false";
-      });
-    });
-  });
-</script>
+<div class="featured-publications">
+  <article class="featured-publication">
+    <div class="featured-publication-figure"><img src="{{ '/assets/img/featured-cav26-plot.webp' | relative_url }}" alt="CAV-2026-Leistungsdiagramm zu gelosten Instanzen und Laufzeit"></div>
+    <div class="featured-publication-body">
+      <p class="featured-publication-meta">CAV 2026 · Distinguished Paper Award</p>
+      <h3>Liveness Proofs for Hardware Model Checking</h3>
+      <p class="featured-publication-authors">Nils Froleyks, Emily Yu, Bart Bogaerts, Armin Biere und Keijo Heljanko</p>
+      <p>Skalierbare Liveness-Beweise.</p>
+      <div class="featured-publication-links"><a href="{{ '/assets/pdf/LivenessCertificationCAV26.pdf' | relative_url }}">PDF</a></div>
+    </div>
+  </article>
+  <article class="featured-publication">
+    <div class="featured-publication-formula" aria-label="Signal-First-Order-Logic-Formel zur beschrankten Stabilisierung">
+      <span class="featured-formula-name">Bounded stabilization</span>
+      <span class="featured-formula-detail">\(\displaystyle \varphi \equiv \uparrow b[t] \rightarrow \exists r \in \mathbb{R}.\ \exists c \in [0,10].\)</span>
+      <span class="featured-formula-detail">\(\displaystyle \forall d \in [0,8].\ |f(t+c+d)-r| \leq 0.5\)</span>
+    </div>
+    <div class="featured-publication-body">
+      <p class="featured-publication-meta">FM 2026</p>
+      <h3>Quantitative Monitoring of Signal First-Order Logic</h3>
+      <p class="featured-publication-authors">Marek Chalupa, Thomas A. Henzinger, N. Ege Sarac und Emily Yu</p>
+      <p>Die erste quantitative Semantik und eine Online-Monitoring-Methode fur ausdrucksstarke Signal First-Order Logic.</p>
+      <div class="featured-publication-links"><a href="https://arxiv.org/pdf/2603.00728">PDF</a><a href="https://doi.org/10.1007/978-3-032-26220-2_11">DOI</a></div>
+    </div>
+  </article>
+  <article class="featured-publication">
+    <div class="featured-publication-figure"><img src="{{ '/assets/img/featured-aaai25-plot.webp' | relative_url }}" alt="AAAI-2025-Diagramme geschatzter Zertifikatswerte fur Drohnen- und Schiffssteuerungen"></div>
+    <div class="featured-publication-body">
+      <p class="featured-publication-meta">AAAI 2025 · Ausgewahlt fur einen Vortrag</p>
+      <h3>Neural Control and Certificate Repair via Runtime Monitoring</h3>
+      <p class="featured-publication-authors">Emily Yu, Dorde Zikelic und Thomas A. Henzinger</p>
+      <p>Laufzeitfeedback erkennt unsicheres Verhalten und hilft dabei, neuronale Steuerungen und ihre Sicherheitszertifikate bei unbekannter Systemdynamik zu reparieren.</p>
+      <div class="featured-publication-links"><a href="https://arxiv.org/pdf/2412.12996">PDF</a><a href="https://doi.org/10.1609/aaai.v39i25.34840">DOI</a></div>
+    </div>
+  </article>
+</div>
 
-Sie finden meine [Publikationen](/publications/) online oder erreichen mich per E-Mail.
+<p class="featured-publications-more"><a href="{{ '/publications/' | relative_url }}">Alle Publikationen <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a></p>
