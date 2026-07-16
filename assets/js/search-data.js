@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-research",
+          title: "research",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "Authorship in many of the papers is alphabetical.",
           section: "Navigation",
@@ -75,8 +82,14 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-accepted-at-floc-2026-looking-forward-to-seeing-you-in-lisbon",
           title: 'Two papers accepted at FLOC 2026. Looking forward to seeing you in Lisbon!...',
           description: "",
-          section: "News",},{id: "news-i-will-give-a-lecture-at-the-upcoming-ipa-fall-days-a-dutch-phd-school-in-november",
-          title: 'I will give a lecture at the upcoming IPA Fall Days, a Dutch...',
+          section: "News",},{id: "news-i-will-give-a-lecture-at-the-upcoming-ipa-fall-days-a-dutch-phd-school-that-i-help-organize-in-november-the-lecture-will-be-on-formal-methods-and-ai",
+          title: 'I will give a lecture at the upcoming IPA Fall Days, a dutch...',
+          description: "",
+          section: "News",},{id: "news-i-have-been-awarded-an-nwo-veni-grant-to-support-my-research-on-certification-for-infinite-state-systems-for-the-next-few-years",
+          title: 'I have been awarded an NWO Veni grant to support my research on...',
+          description: "",
+          section: "News",},{id: "news-our-cav-2026-paper-liveness-proofs-for-hardware-model-checking-received-the-distinguished-paper-award-looking-forward-to-presenting-this-work-in-lisbon",
+          title: 'Our CAV 2026 paper, “Liveness Proofs for Hardware Model Checking”, received the Distinguished...',
           description: "",
           section: "News",},{
         id: 'social-email',
