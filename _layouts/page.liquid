@@ -16,7 +16,9 @@ layout: default
         <img src="{{ page.title_logo | prepend: '/assets/img/' | relative_url }}" alt="{{ page.title_logo_alt | default: page.title }}" class="post-title-logo">
       {% endif %}
     </h1>
-    <p class="post-description">{{ page.description }}</p>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
   </header>
 
   <article>

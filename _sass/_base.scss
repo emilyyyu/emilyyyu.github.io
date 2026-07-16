@@ -919,6 +919,155 @@ footer.sticky-bottom {
   }
 }
 
+// Publications page: compact, year-grouped cards inspired by academic lab indexes.
+.publication-page {
+  .bibsearch-form-input {
+    max-width: 28rem;
+    margin: 1.25rem 0 0;
+    border-color: var(--global-divider-color);
+    border-radius: 4px;
+
+    &:focus {
+      box-shadow: 0 0 0 3px rgba($pink-color, 0.12);
+    }
+  }
+
+  .publications {
+    margin-top: 2rem;
+
+    h2.bibliography {
+      color: var(--global-theme-color);
+      border-top: 0;
+      border-bottom: 2px solid var(--global-theme-color);
+      padding: 0 0 0.35rem;
+      margin: 2.25rem 0 0.75rem;
+      text-align: left;
+
+      span {
+        color: var(--global-theme-color);
+        font-size: 1.35rem;
+        font-weight: 700;
+      }
+    }
+
+    ol.bibliography {
+      counter-reset: publication-item;
+
+      > li {
+        position: relative;
+        counter-increment: publication-item;
+        margin-bottom: 0.75rem;
+        padding: 0.9rem 1rem 0.9rem 3.25rem;
+        overflow: hidden;
+        background: var(--global-card-bg-color);
+        border: 1px solid var(--global-divider-color);
+        border-radius: 6px;
+        box-shadow: 0 2px 9px rgba(0, 0, 0, 0.05);
+
+        &::before {
+          content: counter(publication-item);
+          position: absolute;
+          top: 1rem;
+          left: 1rem;
+          display: grid;
+          width: 1.45rem;
+          height: 1.45rem;
+          place-items: center;
+          color: white;
+          background: var(--global-theme-color);
+          border-radius: 50%;
+          font-size: 0.72rem;
+          font-weight: 700;
+          line-height: 1;
+        }
+
+        > .row {
+          margin: 0;
+
+          > .abbr {
+            display: none;
+          }
+
+          > [id] {
+            flex: 1 1 auto;
+            width: 100%;
+            max-width: none;
+            padding: 0;
+          }
+        }
+
+        .title {
+          margin-bottom: 0.2rem;
+          font-size: 1.02rem;
+          line-height: 1.35;
+
+          a {
+            color: var(--global-theme-color);
+          }
+        }
+
+        .author {
+          margin-bottom: 0.15rem;
+          line-height: 1.45;
+        }
+
+        .periodical {
+          color: var(--global-text-color-light);
+          line-height: 1.45;
+
+          .publication-year {
+            color: var(--global-text-color);
+          }
+        }
+
+        .links {
+          margin-top: 0.55rem;
+
+          a.btn,
+          span.btn {
+            margin: 0 0.35rem 0.25rem 0;
+            padding: 0.2rem 0.65rem;
+            color: #000;
+            border-color: var(--global-theme-color);
+            border-radius: 3px;
+            font-size: 0.7rem;
+            font-weight: 600;
+
+            &:hover {
+              color: white;
+              background: var(--global-theme-color);
+            }
+          }
+        }
+
+        html[data-theme="dark"] & .links {
+          a.btn,
+          span.btn {
+            color: var(--global-text-color);
+          }
+        }
+
+        div.abstract.hidden.open {
+          margin-top: 0.65rem;
+          border: 0;
+          border-left: 3px solid var(--global-theme-color);
+          background: rgba($pink-color, 0.06);
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 575px) {
+  .publication-page .publications ol.bibliography > li {
+    padding: 0.85rem 0.8rem 0.85rem 2.75rem;
+
+    &::before {
+      left: 0.7rem;
+    }
+  }
+}
+
 // Rouge Color Customization
 figure.highlight {
   margin: 0 0 1rem;
