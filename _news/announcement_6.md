@@ -2,11 +2,11 @@
 layout: post
 date: 2025-11-11 16:11:00-0400
 inline: true
+news_icon: microphone
 related_posts: false
 ---
 
 Looking forward to give an invited talk at TU Delft, on 19 November 2025.
 
 ---
-
 

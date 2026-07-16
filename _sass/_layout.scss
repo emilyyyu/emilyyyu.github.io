@@ -369,3 +369,128 @@ body.sticky-bottom-footer {
     }
   }
 }
+
+// Homepage and archive news feed.
+.home-news-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  color: var(--global-theme-color);
+
+  &::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--global-theme-color);
+    opacity: 0.55;
+  }
+}
+
+.news-feed {
+  .table-responsive {
+    max-height: 26rem !important;
+    padding: 0 1.35rem;
+    overflow-y: auto;
+    background: rgba($pink-color, 0.035);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 4px;
+  }
+
+  .news-feed-table {
+    margin: 0;
+
+    tbody,
+    tr {
+      display: block;
+    }
+
+    tr {
+      display: grid;
+      grid-template-columns: 1.5rem minmax(0, 1fr) 7.25rem;
+      align-items: baseline;
+      gap: 1rem;
+      padding: 1rem 0;
+      border-bottom: 1px dotted var(--global-divider-color);
+
+      &:last-child {
+        border-bottom: 0;
+      }
+    }
+
+    th,
+    td {
+      display: block;
+      padding: 0;
+      border: 0;
+      background: transparent;
+    }
+
+    th {
+      grid-column: 3;
+      grid-row: 1;
+      color: var(--global-theme-color);
+      font-size: 0.78rem;
+      font-weight: 600;
+      text-align: right;
+      white-space: nowrap;
+    }
+
+    td {
+      grid-column: 2;
+      grid-row: 1;
+      min-width: 0;
+      line-height: 1.5;
+
+      p {
+        margin: 0;
+      }
+    }
+
+    td.news-icon {
+      grid-column: 1;
+      grid-row: 1;
+      color: var(--global-theme-color);
+      font-size: 1rem;
+      line-height: 1.5;
+      text-align: center;
+    }
+
+    a {
+      color: var(--global-theme-color);
+    }
+  }
+}
+
+@media (max-width: 575px) {
+  .news-feed {
+    .table-responsive {
+      padding: 0 1rem;
+    }
+
+    .news-feed-table tr {
+      display: grid;
+      grid-template-columns: 1.5rem minmax(0, 1fr);
+      align-items: flex-start;
+      gap: 0.3rem 0.75rem;
+      padding: 0.85rem 0;
+    }
+
+    .news-feed-table th {
+      grid-column: 2;
+      grid-row: 1;
+      text-align: left;
+    }
+
+    .news-feed-table td {
+      grid-column: 2;
+      grid-row: 2;
+    }
+
+    .news-feed-table td.news-icon {
+      grid-column: 1;
+      grid-row: 1 / span 2;
+    }
+  }
+}

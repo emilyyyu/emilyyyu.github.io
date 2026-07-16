@@ -23,6 +23,10 @@ title_logo_alt: Veritas logo
       Our lab is part of the Theory cluster at the Leiden Institute of Advanced Computer Science (LIACS). We closely collaborate with
       other researchers within the department.
     </p>
+    <p>
+      We welcome opportunities for new collaborations and supervise bachelor’s and master’s students each year. If you are interested
+      in formal verification or trustworthy AI, please <a href="mailto:z.yu@liacs.leidenuniv.nl">get in touch!</a>
+    </p>
   </section>
 
   <section class="veritas-section">

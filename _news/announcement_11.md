@@ -2,6 +2,7 @@
 layout: post
 date: 2026-06-03 16:11:00-0400
 inline: true
+news_icon: file-lines
 related_posts: false
 ---
 
