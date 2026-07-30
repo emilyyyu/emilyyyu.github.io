@@ -61,7 +61,7 @@ title_logo_alt: Veritas logo
         <div class="veritas-person-info">
           <h3>Harshul Gupta</h3>
           <p class="veritas-role">PhD student</p>
-          <p>Joining August 2026</p>
+          <p>Aug 2026 - Present</p>
         </div>
       </article>
     </div>
@@ -81,22 +81,22 @@ title_logo_alt: Veritas logo
         </thead>
         <tbody>
           <tr>
+            <td>Guangyu Zhu</td>
+            <td>MSc</td>
+            <td>Neural control with Signal first-order logic</td>
+            <td>February 2026 - Present</td>
+          </tr>
+          <tr>
             <td>Enzo Beekman</td>
             <td>BSc</td>
             <td>Certifying constraints from hardware designs</td>
-            <td>February 2026 - Present</td>
+            <td>February 2026 - July 2026</td>
           </tr>
           <tr>
             <td>Zhengqi Lang</td>
             <td>MSc</td>
             <td>Neural certificate verification via local sampling</td>
-            <td>October 2025 - Present</td>
-          </tr>
-          <tr>
-            <td>Guangyu Zhu</td>
-            <td>MSc</td>
-            <td>Neural control with Signal first-order logic</td>
-            <td>February 2026 - Present</td>
+            <td>October 2025 - July 2026</td>
           </tr>
         </tbody>
       </table>

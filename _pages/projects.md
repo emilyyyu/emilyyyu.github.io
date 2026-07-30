@@ -8,7 +8,9 @@ nav_order: 6
 
 ### Member of Program Committee
 
+- International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2027
 - AAAI Conference on Artificial Intelligence (AAAI), 2027
+- International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE), 2026
 - SETSS 2026 Spring School on Engineering Trustworthy Software Systems, 2026
 - Int. Conference on Computer Design (ICCD), 2026
 - Int. Conference on Formal Methods in Computer-Aided Design (FMCAD), 2026
