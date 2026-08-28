@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 112" role="img" aria-labelledby="title description">
+  <title id="title">FM for AI</title>
+  <desc id="description">A custom-drawn, bold FM monogram with irregular rock-poster letterforms and For AI beneath it.</desc>
+  <defs>
+    <mask id="wave-cut">
+      <rect width="190" height="82" fill="black"/>
+      <path fill="white" d="M8 11C23 6 37 11 52 8c10-2 20 2 30 0l-3 22H38l1 12h35l-3 20H39l1 20H10L8 11Zm81 71 3-72c10-3 20 1 29-2l14 31 15-30c10 2 19-2 28 1l3 72h-29l2-37-12 27h-15l-11-27 2 37H89Z"/>
+    </mask>
+  </defs>
+  <rect width="190" height="112" fill="none"/>
+  <rect width="190" height="84" fill="#ffffff" mask="url(#wave-cut)"/>
+  <text x="95" y="105" fill="#fd7345" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="16" letter-spacing="12">FOR AI</text>
+</svg>

@@ -63,7 +63,7 @@ I am currently designing lecture materials that cover modern software developmen
 
 ### Winter 2026
 
-<span class="teaching-course-accent">Formal Methods for AI</span> · 6 ECTS  
+<span class="teaching-course-accent">[Formal Methods for AI](/teaching/formal-methods-for-ai-2026/)</span> · 6 ECTS  
 This is a course that I will design by myself, covering key topics of safe AI and automated reasoning. If you are designing and/or teach a similar course and are interested in course design, feel free to reach out to me. I am always happy to discuss it.
 
 ---
