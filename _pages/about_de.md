@@ -49,8 +49,8 @@ Meine Forschung entwickelt praktische Methoden, um festzustellen, ob komplexe Sy
   </article>
 
   <article class="research-direction">
-    <img class="research-direction-visual" src="{{ '/assets/img/research-automated-reasoning.webp' | relative_url }}" alt="Automatisierte Reasoning-Engine untersucht sichere und unsichere Systemverhalten">
-    <h3>Automatisiertes Schließen und Model Checking</h3>
+    <img class="research-direction-visual" src="{{ '/assets/img/research-automated-reasoning.webp' | relative_url }}" alt="Stilisierter Mikrochip als Symbol für automatisiertes Schließen und Hardware-Verifikation">
+    <h3>Automatisiertes Schließen und Hardware-Verifikation</h3>
     <p>
       Wir untersuchen, wie automatisierte Reasoning-Technologien wie SAT, SMT und Model Checking die skalierbare
       Verifikation sicherheitskritischer Systeme ermöglichen können.

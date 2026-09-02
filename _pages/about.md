@@ -46,8 +46,8 @@ My research develops practical ways to understand whether complex systems are sa
   </article>
 
   <article class="research-direction">
-    <img class="research-direction-visual" src="{{ '/assets/img/research-automated-reasoning.webp' | relative_url }}" alt="Automated reasoning engine exploring safe and unsafe system behaviors">
-    <h3>Automated Reasoning and Model Checking</h3>
+    <img class="research-direction-visual" src="{{ '/assets/img/research-automated-reasoning.webp' | relative_url }}" alt="Stylized microchip representing automated reasoning and hardware verification">
+    <h3>Automated Reasoning and Hardware Verification</h3>
     <p>
       We investigate how automated reasoning technologies such as SAT, SMT, and model checking can enable the
       verification of safety-critical systems at scale.
