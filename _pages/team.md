@@ -10,7 +10,7 @@ title_logo_alt: Veritas logo
 
 <div class="veritas-team">
   <section class="veritas-intro">
-    <h2>VeritasLab: Safe AI and Automated Reasoning</h2>
+    <h2>VeritasLab: System Verification and Automated Reasoning</h2>
     <p>
       The Veritas Lab advances methods to ensure that hardware and AI systems are correct, safe, and trustworthy.
       Our research is concerned with using formal methods and automated reasoning to achieve trustworthy AI and safe autonomy,
