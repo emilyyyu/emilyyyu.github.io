@@ -57,11 +57,12 @@ title_logo_alt: Veritas logo
       </article>
 
       <article class="veritas-person-card">
-        <img src="{{ '/assets/img/team/harshul-gupta.webp' | relative_url }}" alt="Harshul Gupta" class="veritas-person-photo">
+        <img src="{{ '/assets/img/team/jasper-laumen.webp' | relative_url }}" alt="Jasper Laumen" class="veritas-person-photo">
         <div class="veritas-person-info">
-          <h3>Harshul Gupta</h3>
+          <h3>Jasper Laumen</h3>
           <p class="veritas-role">PhD student</p>
-          <p>Aug 2026 - Present</p>
+          <p>September 2026 - Present</p>
+          <p><a href="mailto:j.j.laumen@liacs.leidenuniv.nl">j.j.laumen@liacs.leidenuniv.nl</a></p>
         </div>
       </article>
     </div>

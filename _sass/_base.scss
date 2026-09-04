@@ -614,7 +614,7 @@ footer.sticky-bottom {
 }
 
 .post-title-logo {
-  width: clamp(8rem, 24vw, 13rem);
+  width: clamp(12rem, 36vw, 23rem);
   height: auto;
   flex: 0 0 auto;
 }
@@ -627,7 +627,7 @@ footer.sticky-bottom {
   }
 
   .post-title-logo {
-    width: 9.5rem;
+    width: min(100%, 20rem);
   }
 }
 
