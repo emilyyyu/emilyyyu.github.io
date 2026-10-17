@@ -82,6 +82,12 @@ title_logo_alt: Veritas logo
         </thead>
         <tbody>
           <tr>
+            <td>Jort van Leenen</td>
+            <td>MSc</td>
+            <td>Optimizations for Quantified Boolean Formulas</td>
+            <td>November 2026 - Present</td>
+          </tr>
+          <tr>
             <td>Guangyu Zhu</td>
             <td>MSc</td>
             <td>Neural control with Signal first-order logic</td>
