@@ -91,6 +91,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-cav-2026-paper-liveness-proofs-for-hardware-model-checking-received-the-distinguished-paper-award-looking-forward-to-presenting-this-work-in-lisbon",
           title: 'Our CAV 2026 paper, “Liveness Proofs for Hardware Model Checking”, received the Distinguished...',
           description: "",
+          section: "News",},{id: "news-our-principles-of-certification-workshop-co-located-with-cav-2027-in-amsterdam-now-has-a-website",
+          title: 'Our Principles of Certification workshop, co-located with CAV 2027 in Amsterdam, now has...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
