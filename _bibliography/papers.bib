@@ -1,5 +1,15 @@
 ---
 ---
+@inproceedings{yu2026certifyingtutorial,
+	author       = {Emily Yu},
+	title        = {Certifying Model Checking: A Tutorial},
+	title_label  = {invited paper},
+	booktitle    = {Engineering Trustworthy Software Systems {(SETSS)}},
+	no_in        = {true},
+	abstract     = {A model checker can establish that a hardware design satisfies a safety property, but how can we check that its answer is correct? Certification addresses this question by providing a proof that can be validated independently. This tutorial introduces certification of finite-state safety properties for readers who want to add proof logging to their model checkers. We explain how to construct a witness circuit as our certificate format and validate it using five SAT queries and a structural check on its reset functions. We also explain how to adapt a certificate when preprocessing changes the model. We use small sequential circuits to illustrate the witness constructions for k-induction, retiming, phase abstraction, temporal decomposition, and constraint mining. The aim is to help readers build certificates for their own verification methods and understand what the certificate checker establishes. We assume familiarity with logic, transition systems, and the basic ideas of model checking.},
+	status       = {to appear},
+	year         = {2026}
+}
 @inproceedings{cav26,
 	author       = {Nils Froleyks and
 	Emily Yu and
@@ -11,7 +21,6 @@
 	booktitle    = {International Conference on Computer Aided Verification {(CAV)}},
 	pdf          = {LivenessCertificationCAV26.pdf},
 	abstract     = {We introduce a generic certificate format for verifying liveness properties in hardware model checking. The format relies purely on propositional predicates and does not involve explicit counters. Our certificates can be efficiently validated using a fixed number of SAT checks. The proposed format is compatible with state-of-the-art liveness checking algorithms. We present certificate generation for several representative techniques, including rLive, liveness-to-safety reduction, and k-liveness, as well as for a preprocessing method based on stabilizing constraint extraction. Experimental results on benchmarks from the Hardware Model Checking Competition demonstrate that our approach is practically effective with very low certification overhead, and our certificate checker successfully validated all generated certificates.},
-	status       = {to appear},
 	year         = {2026},
 	note = {<span style="color:red;">*Distinguished Paper Award*</span>}
 }
@@ -22,7 +31,6 @@
 	booktitle    = {International Joint Conference on Automated Reasoning {(IJCAR)}},
 	pdf          = {IJCAR26.pdf},
 	abstract     = {Certificates are machine-checkable witnesses that help increase confidence in verification results by providing independently verifiable evidence beyond a simple yes/no answer. In this short paper, we present two certificate checkers for hardware model checking, Certifaiger and Cerbtora, which target bit-level and word-level verification of hardware designs, respectively. Certifaiger has been adopted in recent editions of the Hardware Model Checking Competition, but not described in the literature before. Cerbtora extends the same theoretical framework to the word level, in which certificates are expressed in the same modeling language as the design under test and are validated using efficient automated reasoning engines. We describe the architecture and main components of both tools and evaluate them on competition benchmarks.},
-	status       = {to appear},
 	year         = {2026}
 }
 @inproceedings{fm26a,
