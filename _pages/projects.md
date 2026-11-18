@@ -6,8 +6,17 @@ nav: true
 nav_order: 6
 ---
 
+### Organization
+
+- Organizer, [Principles of Certification 2027](https://theory.liacs.nl/poc2027/), co-located with CAV 2027 in Amsterdam, the Netherlands
+- PC Chair, [SPIN 2027](https://spin-web.github.io/SPIN2027/), co-located with ETAPS 2027 in Copenhagen, Denmark
+- Organizer, [IPA Fall Days 2026](https://ipa.win.tue.nl/?event=2020), Zeewolde, the Netherlands
+
+---
+
 ### Member of Program Committee
 
+- International Conference on Computer Aided Verification (CAV), 2027
 - International Joint Conference on Artificial Intelligence (IJCAI), 2027
 - International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2027
 - AAAI Conference on Artificial Intelligence (AAAI), 2027

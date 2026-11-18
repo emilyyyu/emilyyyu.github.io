@@ -111,7 +111,11 @@ title_logo_alt: Veritas logo
   </section>
 
   <section class="veritas-section veritas-guests">
-    <h2>Guests</h2>
-    <p>Currently none. Want to visit? <a href="mailto:z.yu@liacs.leidenuniv.nl">Send us an email</a>.</p>
+    <h2>Visitors</h2>
+    <ul>
+      <li>Tom Badings, RWTH, Germany — October 28, 2026</li>
+      <li>Fabian Kresse, ISTA, Austria — November 25, 2026</li>
+    </ul>
+    <p>Want to visit? <a href="mailto:z.yu@liacs.leidenuniv.nl">Send us an email</a>.</p>
   </section>
 </div>
