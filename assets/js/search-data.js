@@ -94,6 +94,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-principles-of-certification-workshop-co-located-with-cav-2027-in-amsterdam-now-has-a-website",
           title: 'Our Principles of Certification workshop, co-located with CAV 2027 in Amsterdam, now has...',
           description: "",
+          section: "News",},{id: "news-i-will-serve-as-co-chair-for-spin-2027-co-located-in-copenhagen-with-etaps-2027",
+          title: 'I will serve as co-chair for SPIN 2027, co-located in Copenhagen with ETAPS...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
